@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.1",
+  "description": "",
+  "main": "arcgis-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^1.0.1"
+  },
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.20.0",
+    "lerna": "^4.0.0",
+    "rollup": "^2.70.1",
+    "typedoc": "^0.22.13",
+    "typescript": "^4.6.3"
+  }
+}
