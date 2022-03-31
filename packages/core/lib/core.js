@@ -6,5 +6,5 @@
 module.exports = core;
 
 function core() {
-    // TODO
+    return 1
 }
